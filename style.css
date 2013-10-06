@@ -1,0 +1,18 @@
+.h1 {
+    font-size:24px;
+    
+}
+
+#content {
+    margin:auto;
+    width:800px;
+    height:600px;
+    background-color:#eee;
+    text-align:center;
+    border: 1px solid #b0bfd2;
+}
+
+.centered {
+    display:block;
+    margin:auto;
+}
