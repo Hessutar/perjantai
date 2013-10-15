@@ -6,7 +6,8 @@
 #content {
     margin:auto;
     width:800px;
-    height:600px;
+    height:100%;
+    padding:20px;
     background-color:#eee;
     text-align:center;
     border: 1px solid #b0bfd2;
@@ -15,4 +16,5 @@
 .centered {
     display:block;
     margin:auto;
+    padding:10px;
 }
