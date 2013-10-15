@@ -62,7 +62,11 @@ class Parser {
 			System.out.println(content.get(i));
 		}
 	}
-	
+    
+    /** Returns parsed list 
+     *
+     * @return processed list
+     */
 	public LinkedList<String> getList() {
 		return content;
 	}
