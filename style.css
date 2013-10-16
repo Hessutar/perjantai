@@ -18,3 +18,7 @@
     margin:auto;
     padding:10px;
 }
+
+img {
+    max-width: 780px;
+}
